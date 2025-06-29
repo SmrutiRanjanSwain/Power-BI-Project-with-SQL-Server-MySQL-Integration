@@ -1,10 +1,10 @@
 # Power-BI-Project-with-SQL-Server-MySQL-Integration
 In this project focused on working with data from Microsoft SQL Server and MySQL databases in a Power BI environment. The main goals are:
-Understanding Data Sources:
+1.Understanding Data Sources:
 SQL Server and MySQL are used as back-end databases.
-Real-time scenario: shifting a Power BI report from a test environment to a production environment.
+2.Real-time scenario: shifting a Power BI report from a test environment to a production environment.
 Another scenario includes transitioning data sources from SQL Server to MySQL, considering differences in SQL syntax.
-Data Overview:
+3.Data Overview:
 Demand and Availability Table:
 Columns: Order Date, Product ID, Availability, and Demand.
 Highlights supply-demand matching issues like shortages.
@@ -19,10 +19,10 @@ Page 2:
 Total Loss
 Total Profit
 Average Daily Loss
-Tools Needed:
+4.Tools Needed:
 SQL Server Management Studio (SSMS)
 MySQL Workbench
---------------------------------------------------------------------------------------
+====================================================================================================
 
 Creating a New Database:
 A new database named test_env (Test Environment) is created using SQL commands.
