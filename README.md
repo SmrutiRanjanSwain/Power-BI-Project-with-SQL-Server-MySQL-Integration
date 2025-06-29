@@ -39,6 +39,7 @@ SQL queries like SELECT * FROM dbo.products and SELECT * FROM dbo.test_environme
 Observations:
 20 products are available in the products table.
 In the inventory table, the date format appears altered after import, but the issue will be handled later in Power BI.
+
 ============================================================================================
 
 1.Data Exploration in SQL Server
@@ -217,6 +218,7 @@ Used Import Flat File Wizard:
 
 Check Data:
 SELECT * FROM dbo.[Prod Environment Inventory Dataset];
+
 =====================================================================================================================
 
 Shifting Power BI Report from Test to Production Environment
