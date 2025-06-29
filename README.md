@@ -22,6 +22,7 @@ Average Daily Loss
 4.Tools Needed:
 SQL Server Management Studio (SSMS)
 MySQL Workbench
+
 ====================================================================================================
 
 Creating a New Database:
